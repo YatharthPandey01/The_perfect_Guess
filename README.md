@@ -1,6 +1,10 @@
 # The_perfect_Guess
 Perfect_guess_game
+
+
 A Simple yet an interesting Game of guessing a number until it gets matched to the number picked by the computer randomly
+
+
 """ 
 We are going to write a program that generates a random number and asks the user to guess it
 1) if the players guess is higher than the actual number the program displays lower number please
